@@ -1,1 +1,1 @@
-Hi, I'm Whitney. 
+Hi, I'm Whitney. I work on the CAT team.
