@@ -1,5 +1,4 @@
-# One of my favorite foods is Pizza
-# My favorite food is Carolina Blue
+# NYC has the best Pizza.
+# My favorite color is Carolina Blue (Go Tarheels).
 
-# Summer time is the best weather
-# Go Ravens 2024
+# Water is good for you.
